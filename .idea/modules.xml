@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TrackerEdge.iml" filepath="$PROJECT_DIR$/TrackerEdge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restructure/restructure.iml" filepath="$PROJECT_DIR$/restructure/restructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/te_backend/te_backend.iml" filepath="$PROJECT_DIR$/te_backend/te_backend.iml" />
     </modules>
   </component>
 </project>
